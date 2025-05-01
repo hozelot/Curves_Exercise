@@ -1,0 +1,5 @@
+Using the project in Zip file (attached) as the basis:
+
+    3/5 - Get MrRectangle to smoothly ping-pong along the curve that's in the scene
+    4/5 - Extend the curve length by 1
+    5/5 - The curve can be an arbitrary length, definable in the curve inspector
